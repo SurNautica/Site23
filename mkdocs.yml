@@ -1,10 +1,10 @@
 site_name: Market+
 site_description: 
 site_author: Charl_iey
-site_url: https://surnautica.github.io/Site23
+site_url: https://surnautica.github.io/iriscore
 
-repo_name: charliey2/market-plus
-repo_url: https://github.com/SurNautica/Site23
+repo_name: surnautica/iriscore
+repo_url: https://github.com/SurNautica/iriscore
 edit_uri: ""
 
 docs_dir: docs

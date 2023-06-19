@@ -1,11 +1,7 @@
-site_name: Market+
+site_name: irisCORE
 site_description: 
 site_author: Charl_iey
 site_url: https://surnautica.github.io/iriscore
-
-repo_name: surnautica/iriscore
-repo_url: https://github.com/SurNautica/iriscore
-edit_uri: ""
 
 docs_dir: docs
 
@@ -55,6 +51,7 @@ extra:
       link: https://discord.gg/
     - icon: fontawesome/solid/link
       link: https://iriscore.dev
+  generator: false
 
 markdown_extensions:
   - admonition
@@ -66,6 +63,13 @@ markdown_extensions:
   - pymdownx.details
 
 nav:
+  - Site 23:
+    - Developer:
+      - Server API: site23/developer/server-api
+      - Client API: site23/developer/client-api
+      - Shared API:
+        - Utility: site23/developer/shared-api/utility.md
+    - CC BY-SA 3.0: site23/licence.md
   - Home:
     - Introduction: index.md
     - Installation: home/install.md

@@ -64,8 +64,9 @@ markdown_extensions:
   - pymdownx.details
 
 nav:
-  - irisCORE:
-    - Welcome: iriscore/welcome.md
+  - Group: 
+    - Welcome: group/welcome.md
+    - Our Team: group/team.md
   - Site 23:
     - Welcome: site23/welcome.md
     - Developer:

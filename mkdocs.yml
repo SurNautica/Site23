@@ -64,9 +64,10 @@ markdown_extensions:
   - pymdownx.details
 
 nav:
-  - irisCORE: index.md
+  - irisCORE:
+    - Welcome: iriscore/welcome.md
   - Site 23:
-    - Welcome: site23/index.md
+    - Welcome: site23/welcome.md
     - Developer:
       - Server API:
         - site23/developer/server-api/index.md

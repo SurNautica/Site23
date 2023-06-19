@@ -12,13 +12,17 @@ GlobalUtility.myMethod()
 ```
 
 ### Methods
-#### Create
+#### Create -> [Instance]
 `Create` is a method used to create any type of [Instance], while optionally being able to provide a [table] of properties to set.
 
 | Parameter | Type | Required |
 | - | - | - |
 | className | [string] | ✓ |
 | properties | { [string]: any } |  |
+
+| Return | Type |
+| - | - |
+| Instance | [Instance] |
 
 ```lua
 local myPart: Part = Utility.Create("Part", {
@@ -31,7 +35,7 @@ local myPart: Part = Utility.Create("Part", {
 myPart:Destroy()
 ```
 
-#### DisconnectTable
+#### DisconnectTable -> void
 `DisconnectTable` is used to disconnect an array filled the [RBXScriptConnection] (or a connection from signal classes) object. This method is safe as in it will not disconnect a connection that is already disconnected.
 
 | Parameter | Type | Required |
@@ -42,7 +46,7 @@ myPart:Destroy()
 Utility.DisconnectTable(array)
 ```
 
-#### GetChildrenOfClass
+#### GetChildrenOfClass -> [table]
 `GetChildrenOfClass` is used to create and return an array of all the parent's children that match a specific class. This method uses [`Instance:IsA(className: string)`](https://create.roblox.com/docs/reference/engine/classes/Instance#IsA), therefore you can provide it with an abstract class.
 
 | Parameter | Type | Required |
@@ -50,19 +54,36 @@ Utility.DisconnectTable(array)
 | parent | [Instance] | ✓ |
 | className | [string] | ✓ |
 
+| Return | Type |
+| - | - |
+| array | { [Instance] } |
+
 ```lua
 local children: { Frame } = Utility.GetChildrenOfClass(screenGui, "Frame")
 ```
 
-#### DeepCopyTable
+#### DeepCopyTable -> [table]
 `DeepCopyTable` is used to create an exact deep copy of a [table] including its values.
 
 | Parameter | Type | Required |
 | - | - | - |
 | tableToCopy | [table] | ✓ |
 
+| Return | Type |
+| - | - |
+| tableClone | [table] |
+
 ```lua
 local myNewTableCopy: { any } = Utility.DeepCopyTable(tableToCopy)
 ```
 
-####
+#### CountDictionary -> [number]
+`CountDictionary` is used to get the number of items inside a [table] that is not an array.
+
+| Parameter | Type | Required |
+| - | - | - |
+| table | [table] | ✓ |
+
+| Return | Type |
+| - | - |
+| count | [number] |

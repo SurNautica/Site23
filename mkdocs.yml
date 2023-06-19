@@ -13,6 +13,7 @@ theme:
   name: material
   features:
     - navigation.tabs
+    - navigation.indexes
     #- navigation.instant
     #- navigation.sections
   font:
@@ -63,17 +64,17 @@ markdown_extensions:
   - pymdownx.details
 
 nav:
+  - irisCORE: index.md
   - Site 23:
+    - Welcome: site23/index.md
     - Developer:
-      - Server API: site23/developer/server-api
-      - Client API: site23/developer/client-api
+      - Server API:
+        - site23/developer/server-api/index.md
+        - Interactions: site23/developer/server-api/interaction.md
+      - Client API:
+        - site23/developer/client-api/index.md
+        - Interface: site23/developer/client-api/interface.md
       - Shared API:
+        - site23/developer/shared-api/index.md
         - Utility: site23/developer/shared-api/utility.md
     - CC BY-SA 3.0: site23/licence.md
-  - Home:
-    - Introduction: index.md
-    - Installation: home/install.md
-    - Examples: home/examples.md
-  - API:
-    - Methods: api/methods.md
-    - Events: api/events.md

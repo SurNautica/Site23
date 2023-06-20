@@ -1,7 +1,7 @@
-﻿[§1]: /iriscore/site23/licence/#1-incidence
-[§2]: /iriscore/site23/licence/#2-general-statements
-[§3]: /iriscore/site23/licence/#3-specific-attribution
-[§4]: /iriscore/site23/licence/#4-attribution-example
+﻿[§1]: /iriscore/site23/license/#1-incidence
+[§2]: /iriscore/site23/license/#2-general-statements
+[§3]: /iriscore/site23/license/#3-specific-attribution
+[§4]: /iriscore/site23/license/#4-attribution-example
 
 !!! tip ""
     This document provides important licensing and attribution information for all assets and concepts that so require it in related to the Roblox experience found [here](https://www.roblox.com/games/10631726780).
@@ -121,7 +121,7 @@ Within the games referenced in [§1], some of the following assets may be presen
 In accordance with [§2] #4, you may use the format defined below to provide attribution to us:
  
 !!! tip ""
-    The “Example SCP Asset” model asset is a derivative of the “SCP-1499” model asset by Site-23; [(Site-23 Licensing Disclaimer)](https://surnautica.github.io/iriscore/site23/licence/) which in turn is based on the “SCP-682” article on the SCP Wiki by “Trasknari": scp-1499.
+    The “Example Asset” model asset is a derivative of the “SCP-1499” model asset by Site-23; [(Site-23 Licensing Disclaimer)](/iriscore/site23/license) which in turn is based on the “SCP-682” article on the SCP Wiki by “Trasknari": scp-1499.
 
 ## §5 — Further Inquiries
 If you have any questions regarding this disclaimer and how it might affect you, please message any of the users stated in [§1].

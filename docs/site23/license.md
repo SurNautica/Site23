@@ -121,7 +121,7 @@ Within the games referenced in [§1], some of the following assets may be presen
 In accordance with [§2] #4, you may use the format defined below to provide attribution to us:
  
 !!! tip ""
-    The “Example Asset” model asset is a derivative of the “SCP-1499” model asset by Site-23; [(Site-23 Licensing Disclaimer)](https://surnautica.github.io/iriscore/site23/licence/) which in turn is based on the “SCP-682” article on the SCP Wiki by “Trasknari": scp-1499.
+    The “Example SCP Asset” model asset is a derivative of the “SCP-1499” model asset by Site-23; [(Site-23 Licensing Disclaimer)](https://surnautica.github.io/iriscore/site23/licence/) which in turn is based on the “SCP-682” article on the SCP Wiki by “Trasknari": scp-1499.
 
 ## §5 — Further Inquiries
 If you have any questions regarding this disclaimer and how it might affect you, please message any of the users stated in [§1].

@@ -24,3 +24,4 @@ The successful development of Site 23 would not have been possible without the i
 - Various 3D assets released by [whoamme000](https://www.roblox.com/users/578638998/profile) & [SHoter02_GUN90](https://www.roblox.com/users/123680957/profile/)
 
 ### Other
+- You, the player, the community member, Site 23's back bone.

@@ -2,7 +2,7 @@
 title: Our Team
 ---
 
-[Site 23]: site23.iriscore.dev
+[Site 23]: https://site23.iriscore.dev
 
 The irisCORE Team
 =================

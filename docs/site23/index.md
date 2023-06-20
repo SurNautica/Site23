@@ -1,4 +1,8 @@
-Site 23 Documentation
-=====================
+Site 23 Development
+===================
 
-Welcome to the Site 23 developer refrence page, this website contains all the developer related API information, update logs, & important licencing information. If you're not a developer, not a legal representative, and not a bot, what are you doing here? It's mostly filled with either legal mumbo-jumbo/developer resources, maybe you were looking for [Site 23's community website](https://site23.iriscore.dev)?
+*[I'm not sure where I am, I'm a community member](https://site23.iriscore.dev)*
+
+*[I'm a developer looking for API documention](/iriscore/site23/developer/)*
+
+*[I'm looking for SCP licensing information](/iriscore/site23/license/)*

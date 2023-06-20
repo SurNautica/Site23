@@ -47,13 +47,9 @@ extra_javascript:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/charliey2/
+      link: https://github.com/SurNautica/
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/Charl_iey
-    - icon: fontawesome/brands/discord
-      link: https://discord.gg/
-    - icon: fontawesome/solid/link
-      link: https://iriscore.dev
   generator: false
 
 markdown_extensions:
@@ -91,5 +87,6 @@ nav:
       - Shared API:
         - site23/developer/shared-api/index.md
         - Utility: site23/developer/shared-api/utility.md
+        - Network: site23/developer/shared-api/network.md
     - Acknowledgements: site23/acknowledgements.md
     - License: site23/license.md

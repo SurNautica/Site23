@@ -26,16 +26,18 @@ GlobalUtility.myMethod()
 | - | - |
 | Instance | [Instance] |
 
-```lua
-local myPart: Part = Utility.Create("Part", {
-    Size = Vector3.new(1, 1, 1),
-    Color = Color3.fromRGB(250, 0, 0),
-    Anchored = true,
-    Parent = workspace
-})
+??? example "Usage"
 
-myPart:Destroy()
-```
+    ```lua
+    local myPart: Part = Utility.Create("Part", {
+        Size = Vector3.new(1, 1, 1),
+        Color = Color3.fromRGB(250, 0, 0),
+        Anchored = true,
+        Parent = workspace
+    })
+
+    myPart:Destroy()
+    ```
 
 #### GetChildrenOfClass
 `GetChildrenOfClass` is used to create and return an array of all the parent's children that match a specific class. This method uses [`Instance:IsA(className: string)`](https://create.roblox.com/docs/reference/engine/classes/Instance#IsA), therefore you can provide it with an abstract class.
@@ -49,9 +51,11 @@ myPart:Destroy()
 | - | - |
 | array | { [Instance] } |
 
-```lua
-local children: { Frame } = Utility.GetChildrenOfClass(screenGui, "Frame")
-```
+??? example "Usage"
+
+    ```lua
+    local children: { Frame } = Utility.GetChildrenOfClass(screenGui, "Frame")
+    ```
 
 #### DisconnectTable
 `DisconnectTable` is used to disconnect an array filled the [RBXScriptConnection] (or a connection from signal classes) object. This method is safe as in it will not disconnect a connection that is already disconnected.
@@ -60,9 +64,11 @@ local children: { Frame } = Utility.GetChildrenOfClass(screenGui, "Frame")
 | - | - | - |
 | array | { [RBXScriptConnection] } | ✓ |
 
-```lua
-Utility.DisconnectTable(array)
-```
+??? example "Usage"
+
+    ```lua
+    Utility.DisconnectTable(array)
+    ```
 
 #### DeepCopyTable
 `DeepCopyTable` is used to create an exact deep copy of a [table] including its values.
@@ -75,9 +81,11 @@ Utility.DisconnectTable(array)
 | - | - |
 | tableClone | [table] |
 
-```lua
-local myNewTableCopy: { any } = Utility.DeepCopyTable(tableToCopy)
-```
+??? example "Usage"
+
+    ```lua
+    local myNewTableCopy: { any } = Utility.DeepCopyTable(tableToCopy)
+    ```
 
 #### ReconcileTable
 `ReconcileTable` is used to ensure a [table] is in a way "up-to-date" with a template [table]. Often times used with data saving to allow for the implemention of new data values inside an existing data structure.
@@ -87,26 +95,28 @@ local myNewTableCopy: { any } = Utility.DeepCopyTable(tableToCopy)
 | tableToUpdate | [table] | ✓ |
 | templateTable | [table] | ✓ |
 
-```lua
-local template = {
-    money = 10,
-    food = 5,
-    name = "jane doe"
-}
+??? example "Usage"
 
-local playerDataTable = {
-    money = 32,
-    name = "john doe"
-}
+    ```lua
+    local template = {
+        money = 10,
+        food = 5,
+        name = "jane doe"
+    }
 
-Utility.ReconcileTable(playerDataTable, template)
+    local playerDataTable = {
+        money = 32,
+        name = "john doe"
+    }
 
--- playerDataTable -> {
---     money = 32,
---     food = 5,
---     name = "john doe"
--- }
-```
+    Utility.ReconcileTable(playerDataTable, template)
+
+    -- playerDataTable -> {
+    --     money = 32,
+    --     food = 5,
+    --     name = "john doe"
+    -- }
+    ```
 
 #### CountDictionary
 `CountDictionary` is used to get the number of items inside a [table] that is not an array.
@@ -126,11 +136,13 @@ Utility.ReconcileTable(playerDataTable, template)
 | - | - | - |
 | pages | [Pages](https://create.roblox.com/docs/reference/engine/classes/Pages) | ✓ |
 
-```lua
-for item: any, pageNumber: number in Utility.IterThroughPages(pages) do
-    -- code
-end
-```
+??? example "Usage"
+
+    ```lua
+    for item: any, pageNumber: number in Utility.IterThroughPages(pages) do
+        -- code
+    end
+    ```
 
 #### EventTimeout
 {experimental}
@@ -146,11 +158,13 @@ end
 | expectedParams | [table] |  |
 | expectedParamCount | [number] | if expectedParams |
 
-```lua
--- start
-Utility.EventTimeout(workspace.PersistentLoaded, 10, {Players.LocalPlayer}, 1)
--- content streaming has either loaded all persistent models for the local player or 10 seconds has passed
-```
+??? example "Usage"
+
+    ```lua
+    -- start
+    Utility.EventTimeout(workspace.PersistentLoaded, 10, {Players.LocalPlayer}, 1)
+    -- content streaming has either loaded all persistent models for the local player or 10 seconds has passed
+    ```
 
 ### Classes
 #### Math

@@ -28,9 +28,11 @@ This service is required for using client interface such as a [ScreenGui]. It ca
 | - | - |
 | sreenGui | [ScreenGui] |
 
-```lua
-local myScreenGui: ScreenGui = InterfaceController.LoadInterface("MyScreenGui", true)
-```
+??? example "Usage"
+
+    ```lua
+    local myScreenGui: ScreenGui = InterfaceController.LoadInterface("MyScreenGui", true)
+    ```
 
 #### WaitForInterface
 {yields}
@@ -48,13 +50,19 @@ local myScreenGui: ScreenGui = InterfaceController.LoadInterface("MyScreenGui", 
 | - | - |
 | sreenGui | [ScreenGui] |
 
-```lua
--- script a
-local myScreenGui: ScreenGui = InterfaceController.LoadInterface("MyScreenGui", true)
+??? example "Usage"
 
--- script b
-local myScreenGui: ScreenGui = InterfaceController.WaitForInterface("MyScreenGui")
-```
+    === "Script A"
+
+        ```lua
+        local myScreenGui: ScreenGui = InterfaceController.LoadInterface("MyScreenGui", true)
+        ```
+
+    === "Script B"
+
+        ```lua
+        local myScreenGui: ScreenGui = InterfaceController.WaitForInterface("MyScreenGui")
+        ```
 
 ### Classes
 #### Radial
@@ -64,14 +72,16 @@ local myScreenGui: ScreenGui = InterfaceController.WaitForInterface("MyScreenGui
 | - | - | - |
 | radialFrame | [Frame] | ✓ |
 
-```lua
-local myNewRadial = InterfaceController.Radial(frame)
+??? example "Usage"
 
--- THIS HAS A CHANGE PENDING, I KNOW Value.Value IS BAD
-myNewRadial.Value.Value = 0.5 -- 0-1
+    ```lua
+    local myNewRadial = InterfaceController.Radial(frame)
 
-myNewRadial:Destroy() -- sets the progress bar to 0 and disconnects all events
-```
+    -- THIS HAS A CHANGE PENDING, I KNOW Value.Value IS BAD
+    myNewRadial.Value.Value = 0.5 -- 0-1
+
+    myNewRadial:Destroy() -- sets the progress bar to 0 and disconnects all events
+    ```
 
 #### MakeKeyPressedIndicator
 `MakeKeyPressedIndicator` is used to simulate a keyboard key press indicator. Template found in `ReplicatedStorage`.
@@ -81,8 +91,10 @@ myNewRadial:Destroy() -- sets the progress bar to 0 and disconnects all events
 | keyFrame | [Frame] | ✓ |
 | keyBinds | [Tuple](https://create.roblox.com/docs/luau/tuples) | ✓ |
 
-```lua
-local myNewKeyPress = InterfaceController.MakeKeypressedIndicator.makeIndicator(keyFrame, Enum.KeyCode.E, Enum.KeyCode.ButtonA)
+??? example "Usage"
 
-myNewKeyPress:Destroy() -- unpress and disconnect all events
-```
+    ```lua
+    local myNewKeyPress = InterfaceController.MakeKeypressedIndicator.makeIndicator(keyFrame, Enum.KeyCode.E, Enum.KeyCode.ButtonA)
+
+    myNewKeyPress:Destroy() -- unpress and disconnect all events
+    ```

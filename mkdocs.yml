@@ -79,4 +79,5 @@ nav:
       - Shared API:
         - site23/developer/shared-api/index.md
         - Utility: site23/developer/shared-api/utility.md
-    - CC BY-SA 3.0: site23/licence.md
+    - Acknowledgements: site23/acknowledgements.md
+    - Licence: site23/licence.md

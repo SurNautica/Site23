@@ -72,14 +72,16 @@ markdown_extensions:
       pygments_lang_class: true
   - pymdownx.inlinehilite
   - pymdownx.snippets
+  - attr_list
 
 nav:
-  - Group: 
-    - Welcome: group/welcome.md
+  - Group:
+    - group/index.md
     - Our Team: group/team.md
   - Site 23:
-    - Welcome: site23/welcome.md
+    - site23/index.md
     - Developer:
+      - site23/developer/index.md
       - Server API:
         - site23/developer/server-api/index.md
         - Interactions: site23/developer/server-api/interaction.md

@@ -1,3 +1,7 @@
+---
+title: Site 23
+---
+
 [Red]: https://redblox.dev
 
 Site 23 uses the [Red] networking system by [Uncontained0](https://devforum.roblox.com/u/Uncontained0). For the time being, Red can be accessed through the `shared` library; for example:

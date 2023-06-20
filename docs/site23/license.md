@@ -1,4 +1,8 @@
-﻿[§1]: /iriscore/site23/license/#1-incidence
+﻿---
+title: Site 23
+---
+
+[§1]: /iriscore/site23/license/#1-incidence
 [§2]: /iriscore/site23/license/#2-general-statements
 [§3]: /iriscore/site23/license/#3-specific-attribution
 [§4]: /iriscore/site23/license/#4-attribution-example

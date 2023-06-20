@@ -35,8 +35,6 @@ The irisCORE Team
 
 ### Luci
 
-[:simple-twitter: Charl_iey](https://twitter.com/Charl_iey)
-
 [:simple-github: Nextence](https://github.com/Nextence)
 
 [:simple-roblox: mobbySlayin](https://www.roblox.com/users/111079434/profile)

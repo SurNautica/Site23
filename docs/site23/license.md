@@ -39,82 +39,82 @@ This post refers to any games related to the SCP Foundation and its associated g
 ## §3 — Specific Attribution
 Within the games referenced in [§1], some of the following assets may be present:
 
-??? info ""SCP-004""
+??? abstract ""SCP-004""
     The “SCP-004” model asset and its basic functionality may be based on the work “SCP-004” (licensed under CC BY-SA 3.0) by "deusprogrammer", from the SCP Wiki.
 
-??? info ""SCP-005""
+??? abstract ""SCP-005""
     The “SCP-005” model asset and its basic functionality may be based on the work “SCP-005” (licensed under CC BY-SA 3.0) by Unknown Author, from the SCP Wiki.
 
-??? info ""SCP-006""
+??? abstract ""SCP-006""
     The “SCP-006” model asset and its basic functionality may be based on the work “SCP-006” (licensed under CC BY-SA 3.0) by Unknown Author, rewritten by "Epic Phail Spy" and "Proxtown", from the SCP Wiki.
 
-??? info ""SCP-008""
+??? abstract ""SCP-008""
     The “SCP-008” model asset and its basic functionality may be based on the work “SCP-008” (licensed under CC BY-SA 3.0) by Unknown Author, from the SCP Wiki.
 
-??? info ""SCP-009""
+??? abstract ""SCP-009""
     The “SCP-009” model asset and its basic functionality may be based on the work “SCP-009” (licensed under CC BY-SA 3.0) by "Chameleon X", from the SCP Wiki.
 
-??? info ""SCP-019""
+??? abstract ""SCP-019""
     The “SCP-019” model asset and its basic functionality may be based on the work “SCP-019” (licensed under CC BY-SA 3.0) by "Sophia Light", from the SCP Wiki.
 
-??? info ""SCP-035""
+??? abstract ""SCP-035""
     The “SCP-035” model asset and its basic functionality may be based on the work “SCP-035” (licensed under CC BY-SA 3.0) by "Kain Pathos Crow", from the SCP Wiki.
 
-??? info ""SCP-049""
+??? abstract ""SCP-049""
     The “SCP-049” model asset and its basic functionality may be based on the work “SCP-049” (licensed under CC BY-SA 3.0) by "Gabriel Jade", rewritten by "djkaktus" & "Gabriel Jade", from the SCP Wiki.
 
-??? info ""SCP-079""
+??? abstract ""SCP-079""
     The “SCP-079” model asset and its basic functionality may be based on the work “SCP-079” (licensed under CC BY-SA 3.0) by Unknown Author, from the SCP Wiki.
 
-??? info ""SCP-087""
+??? abstract ""SCP-087""
     The “SCP-087” model asset and its basic functionality may be based on the work “SCP-087” (licensed under CC BY-SA 3.0) by "Zaeyde", from the SCP Wiki.
 
-??? info ""SCP-131""
+??? abstract ""SCP-131""
     The “SCP-131” model asset and its basic functionality may be based on the work “SCP-131” (licensed under CC BY-SA 3.0) by "Lt Masipag", from the SCP Wiki.
 
-??? info ""SCP-148""
+??? abstract ""SCP-148""
     The “SCP-148” model asset and its basic functionality may be based on the work “SCP-148” (licensed under CC BY-SA 3.0) by "Lt Masipag", rewritten by "Communism will win", from the SCP Wiki.
 
-??? info ""SCP-173""
+??? abstract ""SCP-173""
     The “SCP-173” model asset and its basic functionality may be based on the work “SCP-173” (licensed under CC BY-SA 3.0) by "Moto42", from the SCP Wiki.
 
-??? info ""SCP-207""
+??? abstract ""SCP-207""
     The “SCP-207” model asset and its basic functionality may be based on the work “SCP-207” (licensed under CC BY-SA 3.0) by "Aeish", from the SCP Wiki.
 
-??? info ""SCP-216""
+??? abstract ""SCP-216""
     The “SCP-216” model asset and its basic functionality may be based on the work “SCP-216” (licensed under CC BY-SA 3.0) by "psh", from the SCP Wiki.
 
-??? info ""SCP-250""
+??? abstract ""SCP-250""
     The “SCP-250” model asset and its basic functionality may be based on the work “SCP-250” (licensed under CC BY-SA 3.0) by "Dr Kondraki", rewritten by "Voct"
 
-??? info ""SCP-268""
+??? abstract ""SCP-268""
     The “SCP-268” model asset and its basic functionality may be based on the work “SCP-268” (licensed under CC BY-SA 3.0) by "Pair Of Ducks", from the SCP Wiki.
 
-??? info ""SCP-294""
+??? abstract ""SCP-294""
     The “SCP-294” model asset and its basic functionality may be based on the work “SCP-294” (licensed under CC BY-SA 3.0) by "Arcibi", from the SCP Wiki.
 
-??? info ""SCP-409""
+??? abstract ""SCP-409""
     The “SCP-409” model asset and its basic functionality may be based on the work “SCP-409” (licensed under CC BY-SA 3.0) by "Dr Gears", from the SCP Wiki.
 
-??? info ""SCP-500""
+??? abstract ""SCP-500""
     The “SCP-500” model asset and its basic functionality may be based on the work “SCP-500” (licensed under CC BY-SA 3.0) by "far2", from the SCP Wiki.
 
-??? info ""SCP-662""
+??? abstract ""SCP-662""
     The “SCP-662” model asset and its basic functionality may be based on the work “SCP-662” (licensed under CC BY-SA 3.0) by "Rick Revelry", from the SCP Wiki.
 
-??? info ""SCP-714""
+??? abstract ""SCP-714""
     The “SCP-714” model asset and its basic functionality may be based on the work “SCP-714” (licensed under CC BY-SA 3.0) by "Arcalane", from the SCP Wiki.
 
-??? info ""SCP-914""
+??? abstract ""SCP-914""
     The “SCP-914” model asset and its basic functionality may be based on the work “SCP-914” (licensed under CC BY-SA 3.0) by "Dr Gears", from the SCP Wiki.
 
-??? info ""SCP-999""
+??? abstract ""SCP-999""
     The “SCP-999” model asset and its basic functionality may be based on the work “SCP-999” (licensed under CC BY-SA 3.0) by "ProfSnider", from the SCP Wiki.
 
-??? info ""SCP-1025""
+??? abstract ""SCP-1025""
     The “SCP-1025” model asset and its basic functionality may be based on the work “SCP-1025” (licensed under CC BY-SA 3.0) by "Lasergoose", from the SCP Wiki.
 
-??? info ""SCP-1499""
+??? abstract ""SCP-1499""
     The “SCP-1499” model asset and its basic functionality may be based on the work “SCP-1499” (licensed under CC BY-SA 3.0) by "Trasknari", from the SCP Wiki.
 
 ## §4 — Attribution Example

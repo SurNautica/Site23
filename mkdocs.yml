@@ -94,5 +94,6 @@ nav:
         - site23/developer/shared-api/index.md
         - Utility: site23/developer/shared-api/utility.md
         - Network: site23/developer/shared-api/network.md
+    - Cerberus: site23/cerberus/index.md
     - Acknowledgements: site23/acknowledgements.md
     - License: site23/license.md

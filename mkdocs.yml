@@ -82,6 +82,11 @@ nav:
     - Our Team: group/team.md
   - Site 23:
     - site23/index.md
+    - Updates:
+      - site23/updates/index.md
+      - Change Log: site23/updates/changelog.md
+      - History:
+        - v0: site23/updates/history/v0.md
     - Developer:
       - site23/developer/index.md
       - Server API:

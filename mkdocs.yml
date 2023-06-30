@@ -22,6 +22,7 @@ theme:
     - content.tabs.link
     - content.code.copy
     - navigation.instant
+    #- toc.integrate
   font:
     text: Rubik
   palette:
@@ -55,6 +56,13 @@ extra:
     description: >-
       Site 23 uses cookies to save your preferences, feedback, and measure site statistics. You're always in control of your data. <a href="https://surnautica.github.io/iriscore/privacy"><i>Privacy</i></a>
 
+plugins:
+  - search
+  - awesome-pages:
+      filename: .pages
+      collapse_single_pages: true
+      strict: false
+
 markdown_extensions:
   - admonition
   - codehilite:
@@ -79,19 +87,3 @@ markdown_extensions:
   - attr_list
   - footnotes
   - md_in_html
-
-nav:
-  - Departments:
-    - Civil:
-      - Scientific Department:
-        - departments/civil/scd/index.md
-      - Internal Security Service:
-        - departments/civil/iss/index.md
-      - Engineering and Technical Service:
-        - departments/civil/ets/index.md
-        - Atomic Operations: departments/civil/ets/atindex.md
-    - Combative:
-      - Security Department:
-        - departments/combat/sd/index.md
-        - Asset Containment Unit: departments/combat/sd/asuindex.md
-        - Emergency Response Unit: departments/combat/sd/eruindex.md

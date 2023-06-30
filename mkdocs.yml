@@ -10,7 +10,8 @@ site_dir: docs_build
 copyright: >
   Copyright &copy; 2023 irisCORE —
   <a href="https://surnautica.github.io/iriscore/terms">Terms</a> —
-  <a href="https://surnautica.github.io/iriscore/privacy">Privacy</a>
+  <a href="https://surnautica.github.io/iriscore/privacy">Privacy</a> —
+  <a href="#__consent">Cookies</a>
 
 theme:
   name: material
@@ -49,6 +50,10 @@ extra:
   analytics:
     provider: google
     property: !ENV GOOGLE_ANALYTICS_TOKEN
+  consent:
+    title: We use cookies to make your experience better
+    description: >-
+      Site 23 uses cookies to save your preferences, feedback, and measure site statistics. You're always in control of your data. <a href="https://surnautica.github.io/iriscore/privacy"><i>Privacy</i></a>
 
 markdown_extensions:
   - admonition
@@ -67,6 +72,8 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.tasklist:
+      custom_checkbox: true
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - attr_list

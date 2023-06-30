@@ -1,9 +1,0 @@
-{
-    "robloxLsp.completion.endAutocompletion": true,
-    "robloxLsp.hint.setType": true,
-    "robloxLsp.hint.returnType": true,
-    "robloxLsp.intelliSense.searchDepth": 1,
-    "robloxLsp.typeChecking.showFullType": true,
-    "robloxLsp.hint.paramName": true,
-    "robloxLsp.completion.deprecatedMembers": true
-}

@@ -17,13 +17,12 @@ theme:
     - content.tabs.link
     - content.code.copy
     - navigation.instant
-    #- navigation.sections
   font:
     text: Rubik
   palette:
     scheme: slate
-    primary: deep purple
-    accent: deep purple
+    primary: black
+    accent: blue
   highlightjs: true
   hljs_languages:
     - lua

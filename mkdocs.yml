@@ -64,28 +64,10 @@ markdown_extensions:
   - attr_list
 
 nav:
-  - Group:
-    - group/index.md
-    - Our Team: group/team.md
-  - Site 23:
-    - site23/index.md
-    - Updates:
-      - site23/updates/index.md
-      - Change Log: site23/updates/changelog.md
-      - History:
-        - v0: site23/updates/history/v0.md
-    - Developer:
-      - site23/developer/index.md
-      - Server API:
-        - site23/developer/server-api/index.md
-        - Interactions: site23/developer/server-api/interaction.md
-      - Client API:
-        - site23/developer/client-api/index.md
-        - Interface: site23/developer/client-api/interface.md
-      - Shared API:
-        - site23/developer/shared-api/index.md
-        - Utility: site23/developer/shared-api/utility.md
-        - Network: site23/developer/shared-api/network.md
-    - Cerberus: site23/cerberus/index.md
-    - Acknowledgements: site23/acknowledgements.md
-    - License: site23/license.md
+  - Departments:
+    - Civil:
+      - Scientific Department:
+        - departments/civil/scd/index.md
+        - poopy: departments/civil/scd/index2.md
+      - Internal Security Service:
+        - departments/civil/iss/index.md

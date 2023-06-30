@@ -53,7 +53,7 @@ var replaceStuff = [
 	["{deprecated}", '<p class="tag deprecated">deprecated</p>'],
     ["{unstable}", '<p class="tag unstable">unstable</p>'],
     ["{experimental}", '<p class="tag experimental">experimental</p>'],
-    ["{yields}", '<p class = "tag yields">yields</p>'],
+    ["{yields}", '<p class="tag yields">yields</p>'],
     ["{script}", '<p class="tag script">Script</p>'],
     ["{local-script}", '<p class="tag local-script">LocalScript</p>'],
 ];

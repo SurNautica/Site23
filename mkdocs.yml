@@ -1,7 +1,7 @@
-site_name: irisCORE
+site_name: Site 23
 site_description: 
 site_author: Charl_iey
-site_url: https://surnautica.github.io/site23
+site_url: https://community.site23.xyz
 
 docs_dir: docs
 
@@ -21,22 +21,9 @@ theme:
   font:
     text: Rubik
   palette:
-    # Light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: deep purple
-      accent: deep purple
-      toggle:
-        icon: material/brightness-4
-        name: Switch to dark mode
-    # Dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: deep purple
-      accent: deep purple
-      toggle:
-        icon: material/brightness-7
-        name: Switch to light mode
+    scheme: slate
+    primary: deep purple
+    accent: deep purple
   highlightjs: true
   hljs_languages:
     - lua

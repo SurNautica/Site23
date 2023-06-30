@@ -41,7 +41,27 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://site23.xyz/departments/civil/iss/records/handbook/</loc>
+         <lastmod>2023-06-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://site23.xyz/departments/civil/iss/records/ootd/</loc>
+         <lastmod>2023-06-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://site23.xyz/departments/civil/scd/</loc>
+         <lastmod>2023-06-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://site23.xyz/departments/civil/scd/records/handbook/</loc>
+         <lastmod>2023-06-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://site23.xyz/departments/civil/scd/records/ootd/</loc>
          <lastmod>2023-06-30</lastmod>
          <changefreq>daily</changefreq>
     </url>

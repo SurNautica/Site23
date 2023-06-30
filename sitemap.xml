@@ -11,7 +11,27 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://site23.xyz/departments/civil/ets/atindex/</loc>
+         <loc>https://site23.xyz/departments/civil/ets/hydro/</loc>
+         <lastmod>2023-06-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://site23.xyz/departments/civil/ets/hydro/records/handbook/</loc>
+         <lastmod>2023-06-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://site23.xyz/departments/civil/ets/hydro/records/ootd/</loc>
+         <lastmod>2023-06-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://site23.xyz/departments/civil/ets/records/handbook/</loc>
+         <lastmod>2023-06-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://site23.xyz/departments/civil/ets/records/ootd/</loc>
          <lastmod>2023-06-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -37,6 +57,11 @@
     </url>
     <url>
          <loc>https://site23.xyz/departments/combat/sd/eruindex/</loc>
+         <lastmod>2023-06-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://site23.xyz/development/team/</loc>
          <lastmod>2023-06-30</lastmod>
          <changefreq>daily</changefreq>
     </url>

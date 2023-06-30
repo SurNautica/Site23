@@ -78,6 +78,7 @@ markdown_extensions:
   - pymdownx.snippets
   - attr_list
   - footnotes
+  - md_in_html
 
 nav:
   - Departments:

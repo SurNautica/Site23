@@ -68,6 +68,13 @@ nav:
     - Civil:
       - Scientific Department:
         - departments/civil/scd/index.md
-        - poopy: departments/civil/scd/index2.md
       - Internal Security Service:
         - departments/civil/iss/index.md
+      - Engineering and Technical Service:
+        - departments/civil/ets/index.md
+        - Atomic Operations: departments/civil/ets/atindex.md
+    - Combative:
+      - Security Department:
+        - departments/combat/sd/index.md
+        - Asset Containment Unit: departments/combat/sd/asuindex.md
+        - Emergency Response Unit: departments/combat/sd/eruindex.md

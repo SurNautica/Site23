@@ -9,7 +9,7 @@
 ##### hi
 
 !!! warning
-    hello this is a warning
+    site 23 website is not ready yet. check our discord for more info
 
 !!! warning "with a custom title"
     warning with a custom title!!

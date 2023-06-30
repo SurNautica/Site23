@@ -7,6 +7,12 @@ docs_dir: docs
 
 site_dir: docs_build
 
+copyright: >
+  Copyright &copy; 2023 irisCORE —
+  <a href="/index">Terms</a> —
+  <a href="https://google.com">Privacy</a> —
+  <a href="#__consent">Cookies</a>
+
 theme:
   logo: https://github.com/charliey2/project-assets/blob/main/irisCORE/logo.png?raw=true
   favicon: https://github.com/charliey2/project-assets/blob/main/irisCORE/logo.png?raw=true

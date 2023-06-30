@@ -9,8 +9,8 @@ site_dir: docs_build
 
 copyright: >
   Copyright &copy; 2023 irisCORE —
-  <a href="/index">Terms</a> —
-  <a href="https://google.com">Privacy</a> —
+  <a href="">Terms</a> —
+  <a href="">Privacy</a> —
   <a href="#__consent">Cookies</a>
 
 theme:

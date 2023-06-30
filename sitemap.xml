@@ -6,6 +6,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://site23.xyz/patchnotes/</loc>
+         <lastmod>2023-06-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://site23.xyz/departments/civil/admin/ettra/</loc>
          <lastmod>2023-06-30</lastmod>
          <changefreq>daily</changefreq>
@@ -101,12 +106,7 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://site23.xyz/departments/combat/sd/asuindex/</loc>
-         <lastmod>2023-06-30</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://site23.xyz/departments/combat/sd/eruindex/</loc>
+         <loc>https://site23.xyz/departments/combat/sd/acu/</loc>
          <lastmod>2023-06-30</lastmod>
          <changefreq>daily</changefreq>
     </url>

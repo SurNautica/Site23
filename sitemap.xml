@@ -6,6 +6,16 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://community.site23.xyz/departments/civil/ets/</loc>
+         <lastmod>2023-06-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://community.site23.xyz/departments/civil/ets/atindex/</loc>
+         <lastmod>2023-06-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://community.site23.xyz/departments/civil/iss/</loc>
          <lastmod>2023-06-30</lastmod>
          <changefreq>daily</changefreq>
@@ -16,7 +26,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://community.site23.xyz/departments/civil/scd/index2/</loc>
+         <loc>https://community.site23.xyz/departments/combat/sd/</loc>
+         <lastmod>2023-06-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://community.site23.xyz/departments/combat/sd/asuindex/</loc>
+         <lastmod>2023-06-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://community.site23.xyz/departments/combat/sd/eruindex/</loc>
          <lastmod>2023-06-30</lastmod>
          <changefreq>daily</changefreq>
     </url>

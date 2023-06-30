@@ -1,6 +1,6 @@
 # Internal Security Service
 
-![Image title](images/logo.png){ loading=lazy; width="150"; height="110"; align=left } 
+![ISS Logo](images/logo.png){ loading=lazy; width="150"; height="110"; align=left } 
 Site 23's Internal Security Service (ISS) is a highly specialized department entrusted with the crucial responsibility of safeguarding the administrative assets, uncovering espionage, maintaining ethics, and upholding Foundation law within the facility.
 
 ISS operates with the utmost discretion and diligence to protect the classified information, sensitive documents, and valuable assets vital to the site's operations. They implement comprehensive security protocols, including access controls, surveillance systems, and threat assessment measures to ensure that only authorized personnel have access to restricted areas and information.

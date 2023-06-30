@@ -1,6 +1,6 @@
 # Engineering & Technical Service
 
-![Image title](images/logo.png){ loading=lazy; width="150"; height="110"; align=left } Site 23's Engineering & Technical Service (ETS) is a vital department responsible for ensuring the seamless operation, maintenance, and security of the facility. With their expertise and dedication, ETS plays a crucial role in keeping the site fully functional and optimized.
+![ETS Logo](images/logo.png){ loading=lazy; width="150"; height="110"; align=left } Site 23's Engineering & Technical Service (ETS) is a vital department responsible for ensuring the seamless operation, maintenance, and security of the facility. With their expertise and dedication, ETS plays a crucial role in keeping the site fully functional and optimized.
 
 The highly skilled engineers and technicians of ETS work diligently to maintain and repair critical infrastructure, including electrical systems, HVAC (Heating, Ventilation, and Air Conditioning) systems, plumbing, and structural components. They conduct regular inspections, perform preventive maintenance, and swiftly address any issues that may arise, guaranteeing the uninterrupted functionality of the facility.
 

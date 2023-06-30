@@ -1,5 +1,5 @@
 nav:
-    - Engineering: ets
-    - Security: iss
-    - Scientific: scd
-    - Administration: admin
+  - Engineering: ets
+  - Security: iss
+  - Scientific: scd
+  - Administration: admin

@@ -13,8 +13,6 @@ copyright: >
   <a href="https://surnautica.github.io/iriscore/privacy">Privacy</a>
 
 theme:
-  logo: https://github.com/charliey2/project-assets/blob/main/irisCORE/logo.png?raw=true
-  favicon: https://github.com/charliey2/project-assets/blob/main/irisCORE/logo.png?raw=true
   name: material
   features:
     - navigation.tabs
@@ -28,6 +26,8 @@ theme:
     scheme: slate
     primary: black
     accent: blue
+  favicon: assets/favicon.png
+  logo: assets/favicon.png
   highlightjs: true
   hljs_languages:
     - lua

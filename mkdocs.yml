@@ -1,7 +1,7 @@
 site_name: Site 23
 site_description: 
 site_author: Charl_iey
-site_url: https://community.site23.xyz
+site_url: https://site23.xyz
 
 docs_dir: docs
 
@@ -9,9 +9,8 @@ site_dir: docs_build
 
 copyright: >
   Copyright &copy; 2023 irisCORE —
-  <a href="">Terms</a> —
-  <a href="">Privacy</a> —
-  <a href="#__consent">Cookies</a>
+  <a href="https://surnautica.github.io/iriscore/terms">Terms</a> —
+  <a href="https://surnautica.github.io/iriscore/privacy">Privacy</a>
 
 theme:
   logo: https://github.com/charliey2/project-assets/blob/main/irisCORE/logo.png?raw=true

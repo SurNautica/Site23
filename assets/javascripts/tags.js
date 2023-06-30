@@ -27,10 +27,10 @@ const style = `.tag {
     background-color: rgb(204, 134, 80);
 }
 .yields {
-    background-color: rgb(186, 172, 22)
+    background-color: rgb(186, 172, 22);
 }
 .experimental {
-    background-color: rgb(173, 58, 199)
+    background-color: rgb(173, 58, 199);
 }
 .deprecated {
     background-color: rgb(227, 87, 75);

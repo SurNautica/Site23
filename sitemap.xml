@@ -1,92 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://surnautica.github.io/site23/</loc>
+         <loc>https://community.site23.xyz/</loc>
          <lastmod>2023-06-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://surnautica.github.io/site23/group/</loc>
+         <loc>https://community.site23.xyz/departments/civil/scd/</loc>
          <lastmod>2023-06-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://surnautica.github.io/site23/group/careers/</loc>
+         <loc>https://community.site23.xyz/group/</loc>
          <lastmod>2023-06-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://surnautica.github.io/site23/group/team/</loc>
+         <loc>https://community.site23.xyz/group/careers/</loc>
          <lastmod>2023-06-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://surnautica.github.io/site23/site23/</loc>
+         <loc>https://community.site23.xyz/group/team/</loc>
          <lastmod>2023-06-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://surnautica.github.io/site23/site23/acknowledgements/</loc>
+         <loc>https://community.site23.xyz/site23/</loc>
          <lastmod>2023-06-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://surnautica.github.io/site23/site23/license/</loc>
+         <loc>https://community.site23.xyz/site23/acknowledgements/</loc>
          <lastmod>2023-06-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://surnautica.github.io/site23/site23/cerberus/</loc>
+         <loc>https://community.site23.xyz/site23/license/</loc>
          <lastmod>2023-06-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://surnautica.github.io/site23/site23/developer/</loc>
+         <loc>https://community.site23.xyz/site23/cerberus/</loc>
          <lastmod>2023-06-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://surnautica.github.io/site23/site23/developer/client-api/</loc>
+         <loc>https://community.site23.xyz/site23/developer/</loc>
          <lastmod>2023-06-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://surnautica.github.io/site23/site23/developer/client-api/interface/</loc>
+         <loc>https://community.site23.xyz/site23/developer/client-api/</loc>
          <lastmod>2023-06-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://surnautica.github.io/site23/site23/developer/server-api/</loc>
+         <loc>https://community.site23.xyz/site23/developer/client-api/interface/</loc>
          <lastmod>2023-06-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://surnautica.github.io/site23/site23/developer/shared-api/</loc>
+         <loc>https://community.site23.xyz/site23/developer/server-api/</loc>
          <lastmod>2023-06-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://surnautica.github.io/site23/site23/developer/shared-api/network/</loc>
+         <loc>https://community.site23.xyz/site23/developer/shared-api/</loc>
          <lastmod>2023-06-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://surnautica.github.io/site23/site23/developer/shared-api/utility/</loc>
+         <loc>https://community.site23.xyz/site23/developer/shared-api/network/</loc>
          <lastmod>2023-06-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://surnautica.github.io/site23/site23/updates/</loc>
+         <loc>https://community.site23.xyz/site23/developer/shared-api/utility/</loc>
          <lastmod>2023-06-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://surnautica.github.io/site23/site23/updates/changelog/</loc>
+         <loc>https://community.site23.xyz/site23/updates/</loc>
          <lastmod>2023-06-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://surnautica.github.io/site23/site23/updates/history/v0/</loc>
+         <loc>https://community.site23.xyz/site23/updates/changelog/</loc>
+         <lastmod>2023-06-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://community.site23.xyz/site23/updates/history/v0/</loc>
          <lastmod>2023-06-30</lastmod>
          <changefreq>daily</changefreq>
     </url>

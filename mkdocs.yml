@@ -48,7 +48,7 @@ extra:
   generator: false
   analytics:
     provider: google
-    property: G-6ZCGX5K70P
+    property: !ENV GOOGLE_ANALYTICS_TOKEN
 
 markdown_extensions:
   - admonition

@@ -14,6 +14,7 @@ copyright: >
 
 theme:
   name: material
+  custom_dir: overrides
   features:
     - navigation.tabs
     - navigation.indexes
@@ -33,18 +34,21 @@ theme:
     - lua
 
 extra_javascript:
-  - javascripts/tags.js
+  - assets/javascripts/tags.js
 
 extra_css:
-  - stylesheets/extra.css
+  - assets/stylesheets/extra.css
 
 extra:
   social:
-    - icon: fontawesome/brands/github
+    - icon: iriscore/logo
       link: https://github.com/SurNautica/
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/Charl_iey
   generator: false
+  analytics:
+    provider: google
+    property: G-6ZCGX5K70P
 
 markdown_extensions:
   - admonition
@@ -66,6 +70,7 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - attr_list
+  - footnotes
 
 nav:
   - Departments:

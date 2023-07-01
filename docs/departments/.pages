@@ -1,7 +1,10 @@
 nav:
-  - Engineering: ets
-  - Scientific: scd
-  - Internal Security: iss
-  - Facility Security: sd
-  - Task Forces: mtf
-  - Administration: admin
+  - Civil:
+    - Engineering: ets
+    - Scientific: scd
+    - Internal Security: iss
+    - Administration: admin
+  - Combative:
+    - Facility Security: sd
+    - Task Forces: mtf
+  

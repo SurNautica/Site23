@@ -1,3 +1,7 @@
 nav:
-    - Civil: civil
-    - Combative: combat
+  - Engineering: ets
+  - Scientific: scd
+  - Internal Security: iss
+  - Facility Security: sd
+  - Task Forces: mtf
+  - Administration: admin

@@ -1,4 +1,4 @@
 nav:
-    - Departments: departments
-    - Patch Notes: patchnotes.md
-    - Development: development
+  - Departments: departments
+  - Patch Notes: patchnotes.md
+  - Development: development

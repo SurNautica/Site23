@@ -11,6 +11,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://site23.xyz/departments/</loc>
+         <lastmod>2023-07-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://site23.xyz/departments/admin/ettra/</loc>
          <lastmod>2023-07-01</lastmod>
          <changefreq>daily</changefreq>

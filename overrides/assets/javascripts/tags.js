@@ -5,57 +5,88 @@ const style = `.tag {
     margin-left: 7px !important;
     margin: 0 !important; 
     background-clip: padding-box;
-    border-radius: 3px;
+    border-radius: 20px;
     display: inline-block;
     font-size: .7rem;
-    font-family: "Roboto";
+    font-family: "Rubik";
     font-weight: normal;
+    border: 2px solid;
 }
 .read-only {
-    background-color: rgb(42, 157, 143);
+    border-color: rgb(42, 157, 143);
+    color: rgb(42, 157, 143);
 }
 .client-only {
-    background-color: rgb(82, 199, 95);
+    border-color: rgb(82, 199, 95);
+    color: rgb(82, 199, 95);
 }
 .server-only {
-    background-color: rgb(57, 118, 204);
-}
-.no-change {
-    background-color: rgb(85, 84, 102);
+    border-color: rgb(57, 118, 204);
+    color: rgb(57, 118, 204);
 }
 .unstable {
-    background-color: rgb(204, 134, 80);
+    border-color: rgb(204, 134, 80);
+    color: rgb(204, 134, 80);
 }
 .yields {
-    background-color: rgb(186, 172, 22);
+    border-color: rgb(186, 172, 22);
+    color: rgb(186, 172, 22);
 }
 .experimental {
-    background-color: rgb(173, 58, 199);
+    border-color: rgb(173, 58, 199);
+    color: rgb(173, 58, 199);
 }
 .deprecated {
-    background-color: rgb(227, 87, 75);
+    border-color: rgb(227, 87, 75);
+    color: rgb(227, 87, 85);
 }
 .script {
-    background-color: rgb(57, 118, 204);
+    border-color: rgb(57, 118, 204);
+    color: rgb(57, 118, 204);
 }
 .local-script {
-    background-color: rgb(82, 199, 95);
+    border-color: rgb(82, 199, 95);
+    color: rgb(82, 199, 95);
+}
+.sc0 {
+    border-color: rgb(218, 201, 201);
+    color: rgb(218, 201, 201);
+}
+.sc1 {
+    border-color: rgb(139, 229, 227);
+    color: rgb(139, 229, 227);
+}
+.sc2 {
+    border-color: rgb(29, 107, 187);
+    color: rgb(29, 107, 187);
+}
+.sc3 {
+    border-color: rgb(192, 56, 0);
+    color: rgb(192, 56, 0);
+}
+.dd {
+    border-color: rgb(165, 10, 10);
+    color: rgb(165, 10, 10);
 }
 h4 {
     display: inline;
 }`
 
 var replaceStuff = [
-	["{read-only}", '<p class="tag read-only">read-only</p>'],
-    ["{server-only}", '<p class="tag server-only">server-only</p>'],
-    ["{no-change}", '<p class="tag no-change">no-change</p>'],
-	["{client-only}", '<p class="tag client-only">client-only</p>'],
-	["{deprecated}", '<p class="tag deprecated">deprecated</p>'],
-    ["{unstable}", '<p class="tag unstable">unstable</p>'],
-    ["{experimental}", '<p class="tag experimental">experimental</p>'],
-    ["{yields}", '<p class="tag yields">yields</p>'],
+	["{read-only}", '<p class="tag read-only">Read-Only</p>'],
+    ["{server-only}", '<p class="tag server-only">Server-Only</p>'],
+	["{client-only}", '<p class="tag client-only">Client-only</p>'],
+	["{deprecated}", '<p class="tag deprecated">Deprecated</p>'],
+    ["{unstable}", '<p class="tag unstable">Unstable</p>'],
+    ["{experimental}", '<p class="tag experimental">Experimental</p>'],
+    ["{yields}", '<p class="tag yields">Yields</p>'],
     ["{script}", '<p class="tag script">Script</p>'],
     ["{local-script}", '<p class="tag local-script">LocalScript</p>'],
+    ["{sc0}", '<p class="tag sc0">Security Clearance 0</p>'],
+    ["{sc1}", '<p class="tag sc1">Security Clearance 1</p>'],
+    ["{sc2}", '<p class="tag sc2">Security Clearance 2</p>'],
+    ["{sc3}", '<p class="tag sc3">Security Clearance 3</p>'],
+    ["{dd}", '<p class="tag dd">Department Director</p>'],
 ];
 
 function replace(element, from, to) {

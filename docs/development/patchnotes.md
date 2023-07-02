@@ -1,6 +1,7 @@
 ---
 hide:
     - navigation
+    - toc
 ---
 
 # Patch Notes (0.0.5 DEV)

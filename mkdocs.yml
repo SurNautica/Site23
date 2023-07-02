@@ -42,7 +42,11 @@ extra_css:
 
 extra:
   social:
-    - icon: fontawesome/brands/twitter
+    - icon: simple/roblox
+      link: https://www.roblox.com/groups/15701815/Site-23#!/about
+    - icon: simple/discord
+      link: https://discord.gg/3SFH7Ynpnf
+    - icon: simple/twitter
       link: https://twitter.com/Charl_iey
   generator: false
   analytics:

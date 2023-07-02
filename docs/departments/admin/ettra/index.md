@@ -1,3 +1,7 @@
+---
+title: ETTRA
+---
+
 # Emergent Threat Tactical Response Authority
 
 ![ETTRA Logo](images/logo.png){ loading=lazy; width="150"; height="110"; align=left } The Emergent Threat Tactical Response Authority (ETTRA) at Site 23 is an elite division entrusted with the critical responsibility of overseeing and directing combative security personnel in the event of an unresolved facility crisis. As the ultimate authority within the facility during deployments, ETTRA plays a pivotal role in maintaining security and resolving high-risk situations.

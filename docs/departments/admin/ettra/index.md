@@ -17,3 +17,6 @@ ETTRA collaborates closely with other departments, such as Internal Security Ser
 While ETTRA holds the utmost authority within the facility during deployments, they adhere to strict guidelines, ethical standards, and Foundation protocols. They operate within the framework of Foundation law and prioritize the safety and well-being of all personnel while maintaining operational integrity.
 
 In summary, Site 23's Emergent Threat Tactical Response Authority (ETTRA) is a highly trained and specialized division responsible for overseeing and directing combative security personnel during unresolved facility crises. With their expertise, strategic planning, and command abilities, ETTRA plays a vital role in maintaining security, resolving threats, and ensuring the safety of all personnel within the facility.
+
+!!! quote "Dr Daniil Sokolsky"
+    "We are now tasked with preparing proactive responses to situations which do not yet exist; we defeat ourselves in our own minds, so that nobody else will ever be able to."

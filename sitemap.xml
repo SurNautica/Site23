@@ -6,11 +6,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://site23.xyz/patchnotes/</loc>
-         <lastmod>2023-07-02</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://site23.xyz/departments/</loc>
          <lastmod>2023-07-02</lastmod>
          <changefreq>daily</changefreq>
@@ -141,7 +136,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://site23.xyz/development/patchnotes/</loc>
+         <lastmod>2023-07-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://site23.xyz/development/team/</loc>
+         <lastmod>2023-07-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://site23.xyz/resources/brand/</loc>
          <lastmod>2023-07-02</lastmod>
          <changefreq>daily</changefreq>
     </url>

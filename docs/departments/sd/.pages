@@ -1,4 +1,2 @@
 nav:
-  - index.md
-  - Records: records
-  - Containment: acu
+  - ACU: acu

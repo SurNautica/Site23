@@ -60,7 +60,7 @@ plugins:
   - search
   - awesome-pages:
       filename: .pages
-      collapse_single_pages: true
+      collapse_single_pages: false
       strict: false
 
 markdown_extensions:

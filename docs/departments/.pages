@@ -1,11 +1,9 @@
 nav:
   - index.md
-  - Civilian:
-    - Engineering: ets
-    - Scientific: scd
-    - Internal Security: iss
-    - Administration: admin
-  - Combative:
-    - Facility Security: sd
-    - Task Forces: mtf
+  - Engineering: ets
+  - Scientific: scd
+  - Internal Security: iss
+  - Administration: admin
+  - Facility Security: sd
+  - Task Forces: mtf
   

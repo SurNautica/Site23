@@ -7,7 +7,7 @@ The Departments within Site 23 each hold a great responsibility in keeping the s
 All Departments are applicable through the Site 23 Discord or within the Site 23 game. *Combative Departments* and certain *civil Departments* may hold different chances of entry, and may open/close entry when needed.
 
 !!! note
-    Foundation Personnel who holda clearance level between 0 and 2 are granted to participate in a maximum of **2** Departments. Foundation Personnel who hold a Level - 3 clearance or higher are not permitted to join any other Department, aside their own. 
+    Foundation Personnel who hold a clearance level between 0 and 2 are granted to participate in a maximum of **2** Departments. Foundation Personnel who hold a Level - 3 clearance or higher are not permitted to join any other Department, aside their own. 
     
     *Subdivisions do not count towards the Department limit.*
 

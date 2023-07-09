@@ -136,7 +136,27 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://www.site23.xyz/development/</loc>
+         <lastmod>2023-07-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.site23.xyz/development/acknowledgements/</loc>
+         <lastmod>2023-07-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.site23.xyz/development/license/</loc>
+         <lastmod>2023-07-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://www.site23.xyz/development/patchnotes/</loc>
+         <lastmod>2023-07-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.site23.xyz/development/cerberus/</loc>
          <lastmod>2023-07-09</lastmod>
          <changefreq>daily</changefreq>
     </url>

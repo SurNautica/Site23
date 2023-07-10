@@ -1,7 +1,3 @@
----
-title: Site 23
----
-
 ## Thank you :two_hearts:{ .heart }
 The successful development of Site 23 would not have been possible without the invaluable contributions of numerous talented individuals and the utilization of various open-sourced packages and services. We extend our heartfelt gratitude to each author and creator involved, whose dedication and expertise have greatly enriched both Site 23 and the wider development community. Their unwavering commitment to innovation and collaboration has played a significant role in bringing this project to fruition.
 

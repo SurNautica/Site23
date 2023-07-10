@@ -1,11 +1,7 @@
-﻿---
-title: Site 23
----
-
-[§1]: /iriscore/site23/license/#1-incidence
-[§2]: /iriscore/site23/license/#2-general-statements
-[§3]: /iriscore/site23/license/#3-specific-attribution
-[§4]: /iriscore/site23/license/#4-attribution-example
+﻿[§1]: #1-incidence
+[§2]: #2-general-statements
+[§3]: #3-specific-attribution
+[§4]: #4-attribution-example
 
 !!! tip ""
     This document provides important licensing and attribution information for all assets and concepts that so require it in related to the Roblox experience found [here](https://www.roblox.com/games/10631726780).

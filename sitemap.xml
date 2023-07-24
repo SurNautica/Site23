@@ -11,6 +11,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://www.site23.xyz/departments/admin/acd/</loc>
+         <lastmod>2023-07-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://www.site23.xyz/departments/admin/ettra/</loc>
          <lastmod>2023-07-24</lastmod>
          <changefreq>daily</changefreq>
@@ -22,6 +27,11 @@
     </url>
     <url>
          <loc>https://www.site23.xyz/departments/admin/ettra/records/ootd/</loc>
+         <lastmod>2023-07-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.site23.xyz/departments/admin/fsc/</loc>
          <lastmod>2023-07-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -91,12 +101,22 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://www.site23.xyz/departments/mtf/mu4/</loc>
+         <lastmod>2023-07-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://www.site23.xyz/departments/mtf/nu7/</loc>
          <lastmod>2023-07-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.site23.xyz/departments/mtf/omega1/</loc>
+         <lastmod>2023-07-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.site23.xyz/departments/mtf/phi2/</loc>
          <lastmod>2023-07-24</lastmod>
          <changefreq>daily</changefreq>
     </url>

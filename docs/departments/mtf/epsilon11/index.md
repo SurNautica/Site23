@@ -1,6 +1,12 @@
+---
+title: Epsilon-11
+---
+
 # MTF Epsilon-11 ("Nine-Tailed Fox")
 
-![Epsilon-11 Logo](images/logo.png){ loading=lazy; width="150"; height="110"; align=left } Mobile Task Force Epsilon-11, codenamed "Nine-Tailed Fox," is a highly classified and specialized unit responsible for handling internal security matters within the Foundation. Operating as a special operations force, Epsilon-11 is deployed when standard security protocols fail and multiple breaches are imminent at Foundation Sites. Their primary mission is to contain, neutralize, and regain control in high-risk situations where the security and integrity of the facility are compromised.
+**:material-file-sign: Lore File** [What's this?](https://www.site23.xyz/departments#lore-files)
+
+![Epsilon-11 Logo](images/logo.png){ loading=lazy; width="150"; height="110"; align=right } Mobile Task Force Epsilon-11, codenamed "Nine-Tailed Fox," is a highly classified and specialized unit responsible for handling internal security matters within the Foundation. Operating as a special operations force, Epsilon-11 is deployed when standard security protocols fail and multiple breaches are imminent at Foundation Sites. Their primary mission is to contain, neutralize, and regain control in high-risk situations where the security and integrity of the facility are compromised.
 
 Epsilon-11 consists of highly trained personnel with backgrounds in special operations, counterterrorism, and advanced combat tactics. They possess exceptional skills in close-quarters combat, covert operations, and crisis management. Their training enables them to swiftly respond to critical incidents and adapt to rapidly changing scenarios.
 

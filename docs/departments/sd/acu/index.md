@@ -4,7 +4,7 @@ title: ACU
 
 # Asset Containment Unit
 
-![ACU Logo](images/logo.png){ loading=lazy; width="150"; height="110"; align=left } The Asset Containment Unit (ACU) at Site 23 is a specialized subdivision of the Security Department (SD) entrusted with the critical responsibility of containing and securing anomalous entities and forces within the facility. With their expertise, specialized training, and advanced equipment, ACU plays a pivotal role in mitigating risks associated with anomalous phenomena.
+![ACU Logo](images/logo.png){ loading=lazy; width="150"; height="110"; align=right } The Asset Containment Unit (ACU) at Site 23 is a specialized subdivision of the Security Department (SD) entrusted with the critical responsibility of containing and securing anomalous entities and forces within the facility. With their expertise, specialized training, and advanced equipment, ACU plays a pivotal role in mitigating risks associated with anomalous phenomena.
 
 ACU personnel undergo rigorous training in containment procedures, anomaly response protocols, and hazardous material handling. They possess a deep understanding of anomalous entities, their properties, and containment requirements. Equipped with specialized gear, containment chambers, and advanced technology, ACU is prepared to confront and neutralize threats posed by anomalous forces.
 

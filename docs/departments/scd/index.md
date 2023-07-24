@@ -4,7 +4,7 @@ title: ScD
 
 # Scientific Department
 
-![ScD Logo](images/logo.png){ loading=lazy; width="150"; height="110"; align=left } Site 23's Scientific Department (ScD) is a specialized division entrusted with the critical tasks of researching advanced weapon systems and studying anomalous entities. With their expertise and cutting-edge facilities, ScD plays a pivotal role in expanding the Foundation's knowledge and capabilities in these areas.
+![ScD Logo](images/logo.png){ loading=lazy; width="150"; height="110"; align=right } Site 23's Scientific Department (ScD) is a specialized division entrusted with the critical tasks of researching advanced weapon systems and studying anomalous entities. With their expertise and cutting-edge facilities, ScD plays a pivotal role in expanding the Foundation's knowledge and capabilities in these areas.
 
 The highly skilled scientists, researchers, and technicians of ScD are at the forefront of developing advanced weapon systems. They explore emerging technologies, conduct experimental research, and analyze anomalous phenomena to devise innovative and effective means of neutralizing potential threats. Through rigorous testing and evaluation, ScD aims to enhance the Foundation's defensive capabilities, ensuring the safety of personnel and the containment of anomalous entities.
 

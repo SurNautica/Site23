@@ -34,3 +34,7 @@ Combative Departments are the tougher Departments of Site 23, entrusted with pro
 | ----------- | ------------------------------------ |
 | `Security Department`       | :material-shield:    Asset Containment Unit  |
 | `Mobile Task Force`       | :fontawesome-solid-hand-back-fist: Omega - 1 / Epsilon - 11 / Nu - 7 |
+
+## Lore Files
+
+Some departments only exist in Site 23's lore and do not have any department functionality.

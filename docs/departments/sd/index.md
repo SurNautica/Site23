@@ -4,7 +4,7 @@ title: SD
 
 # Security Department
 
-![SD Logo](images/logo.png){ loading=lazy; width="150"; height="110"; align=left } The Security Department (SD) at Site 23 is a paramilitary force responsible for the protection and security of the facility. Committed to maintaining a safe and secure environment, SD personnel are highly trained and equipped to handle a wide range of security challenges and emergencies.
+![SD Logo](images/logo.png){ loading=lazy; width="150"; height="110"; align=right } The Security Department (SD) at Site 23 is a paramilitary force responsible for the protection and security of the facility. Committed to maintaining a safe and secure environment, SD personnel are highly trained and equipped to handle a wide range of security challenges and emergencies.
 
 SD operates with a paramilitary structure, employing disciplined and dedicated personnel who undergo rigorous training in combat techniques, defensive tactics, crisis management, and situational awareness. They are skilled in firearms handling, crowd control, surveillance, and other essential security procedures to effectively respond to security threats.
 

@@ -1,6 +1,12 @@
+---
+title: Nu-7
+---
+
 # MTF Nu-7 ("Hammer Down")
 
-![Nu-7 Logo](images/logo.png){ loading=lazy; width="150"; height="110"; align=left } Mobile Task Force Nu-7, codenamed "Hammer Down," is a highly trained and specialized battalion-strength force tasked with responding to critical incidents involving the loss of communication with major Foundation facilities. Operating under the most dire circumstances, such as site-wide breaches, enemy compromises, or other catastrophic events, Nu-7 is mobilized to restore communication, assess the situation, and neutralize threats if necessary.
+**:material-file-sign: Lore File** [What's this?](https://www.site23.xyz/departments#lore-files)
+
+![Nu-7 Logo](images/logo.png){ loading=lazy; width="150"; height="110"; align=right } Mobile Task Force Nu-7, codenamed "Hammer Down," is a highly trained and specialized battalion-strength force tasked with responding to critical incidents involving the loss of communication with major Foundation facilities. Operating under the most dire circumstances, such as site-wide breaches, enemy compromises, or other catastrophic events, Nu-7 is mobilized to restore communication, assess the situation, and neutralize threats if necessary.
 
 Comprised of elite special forces personnel, Nu-7 undergoes rigorous training in combat tactics, crisis response, and advanced weaponry. They are equipped with state-of-the-art equipment, specialized vehicles, and advanced communication systems to effectively operate in high-risk environments.
 

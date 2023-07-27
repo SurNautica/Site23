@@ -39,6 +39,7 @@ extra_javascript:
 
 extra_css:
   - site/stylesheets/extra.css
+  - site/stylesheets/hint.min.css
 
 extra:
   social:
@@ -59,6 +60,7 @@ extra:
 
 plugins:
   - search
+  - tooltips
   - awesome-pages:
       filename: .pages
       collapse_single_pages: false

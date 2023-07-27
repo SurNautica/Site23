@@ -1,6 +1,6 @@
 site_name: Site 23
-site_description: 
-site_author: Charl_iey
+site_description: The information hub for all of Site 23's resources, development, & community updates.
+site_author: Charl_iey, Flamindy
 site_url: https://www.site23.xyz
 
 docs_dir: docs
@@ -56,7 +56,7 @@ extra:
   consent:
     title: We use cookies to make your experience better
     description: >-
-      Site 23 uses cookies to save your preferences, feedback, and measure site statistics. You're always in control of your data. <a href="https://surnautica.github.io/iriscore/privacy"><i>Privacy</i></a>
+      Site 23 uses cookies to save your preferences, feedback, and measure site statistics. You're always in control of your data. <a href="https://charliey2.github.io/iriscore/privacy"><i>Privacy</i></a>
 
 plugins:
   - search

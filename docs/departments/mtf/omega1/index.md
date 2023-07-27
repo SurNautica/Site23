@@ -4,7 +4,7 @@ title: Omega-1
 
 # MTF Omega-1 ("Law's Left Hand")
 
-**:material-file-sign: Lore File** [What's this?](https://www.site23.xyz/departments#lore-files)
+[**:material-file-sign: Lore File**]{Some departments only exist in Site 23's lore and do not have any department functionality.}
 
 ![Omega-1 Logo](images/logo.png){ loading=lazy; width="150"; height="110"; align=right } Mobile Task Force Omega-1, codenamed "Law's Left Hand," is a specialized unit empowered with the authority to remove or execute high-ranking Foundation personnel if they are found to be acting unethically or compromising the organization's principles. Omega-1 operates under the direct command and supervision of the Internal Security Service's Ethics Committee.
 

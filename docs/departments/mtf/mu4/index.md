@@ -4,7 +4,7 @@ title: Mu-4
 
 # MTF Mu-4 ("Debuggers")
 
-**:material-file-sign: Lore File** [What's this?](https://www.site23.xyz/departments#lore-files)
+[**:material-file-sign: Lore File**]{Some departments only exist in Site 23's lore and do not have any department functionality.}
 
 ![Mu-4 Logo](images/logo.png){ loading=lazy; width="150"; height="110"; align=right } Mobile Task Force Mu-4, codenamed "Debuggers," is a highly specialized unit within the Foundation, dedicated to handling electronic anomalies and investigating digital phenomena that pose unique challenges to containment and understanding. Their primary mission is the identification, tracking, retrieval, and containment of anomalous electronic devices and transmissions, with a particular focus on anomalous computers and network-related anomalies.
 

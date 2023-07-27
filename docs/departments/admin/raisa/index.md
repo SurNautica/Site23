@@ -4,7 +4,7 @@ title: RAISA
 
 # Recordkeeping and Information Security Administration
 
-**:material-file-sign: Lore File** [What's this?](https://www.site23.xyz/departments#lore-files)
+[**:material-file-sign: Lore File**]{Some departments only exist in Site 23's lore and do not have any department functionality.}
 
 ![Image title](images/logo.png){ loading=lazy; width="150"; height="110"; align=right } Recordkeeping and Information Security Administration (RAISA) at Site 23 is a crucial department entrusted with the vital tasks of maintaining and securing Foundation records, managing web assets, and ensuring the integrity and confidentiality of information within the facility.
 

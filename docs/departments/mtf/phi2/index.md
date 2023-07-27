@@ -4,7 +4,7 @@ title: Phi-2
 
 # MTF Phi-2 ("Clever Girls")
 
-**:material-file-sign: Lore File** [What's this?](https://www.site23.xyz/departments#lore-files)
+[**:material-file-sign: Lore File**]{Some departments only exist in Site 23's lore and do not have any department functionality.}
 
 ![Phi-2 Logo](images/logo.png){ loading=lazy; width="150"; height="110"; align=right } Mobile Task Force Phi-2, codenamed "Clever Girls," is a highly specialized unit within the Foundation, dedicated to the study, tracking, capture, and containment of prehistoric anomalies, with a particular focus on dinosaurs and other ancient creatures. These anomalous entities pose unique challenges due to their ancient origins, immense size, and often dangerous nature.
 

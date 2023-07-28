@@ -4,7 +4,7 @@ hide:
     - navigation
 ---
 
-<center>
+<div class="centered-text" markdown>
 
 # Site 23 Information Hub
 
@@ -12,4 +12,4 @@ hide:
 
 ### We're still setting things up, check back soon.
 
-</center>
+</div>

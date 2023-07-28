@@ -1,3 +1,7 @@
+---
+title: Departments
+---
+
 # Departments
 
 The Departments within Site 23 each hold a great responsibility in keeping the site protected. Entry into all *public* Departments are granted to personnel who hold a **Level - 0** clearance or higher. 

@@ -9,8 +9,8 @@ site_dir: docs_build
 
 copyright: >
   Copyright &copy; 2023 irisCORE —
-  <a href="https://surnautica.github.io/iriscore/terms">Terms</a> —
-  <a href="https://surnautica.github.io/iriscore/privacy">Privacy</a> —
+  <a href="https://charliey2.github.io/iriscore/terms">Terms</a> —
+  <a href="https://charliey2.github.io/iriscore/privacy">Privacy</a> —
   <a href="#__consent">Cookies</a>
 
 theme:

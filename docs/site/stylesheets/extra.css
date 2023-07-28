@@ -15,3 +15,7 @@
     animation: heart 1000ms infinite;
     color: #da2626
 }
+
+.centered-text {
+  text-align: center;
+}

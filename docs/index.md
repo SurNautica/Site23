@@ -1,35 +1,15 @@
-# hi
+---
+hide:
+    - toc
+    - navigation
+---
 
-## hi
+<center>
 
-### hi
+# Site 23 Information Hub
 
-#### hi
+----
 
-##### hi
+### We're still setting things up, check back soon.
 
-!!! warning
-    site 23 website is not ready yet. check our discord for more info
-
-!!! warning "with a custom title"
-    warning with a custom title!!
-
-??? warning
-    hello this is a warning that can be closed
-
-???+ warning
-    hello this is a warning that can be opened
-
-see all the types here: https://squidfunk.github.io/mkdocs-material/reference/admonitions/#supported-types
-
-| table title 1 | table title 2 | table title 3 |
-| - | - | - |
-| value 1 | value 2 | value 3 |
-
-=== "Side 1"
-
-    content table side 1!!!
-
-=== "Side 2"
-
-    content table side 2!!!
+</center>

@@ -1,0 +1,82 @@
+.highlight-dea {
+    background-color: cornflowerblue;
+    border-radius: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.highlight-hostile {
+    background-color: black;
+    font-size: 16px;
+    border-radius: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.highlight-both-parties {
+    background-color: darkorchid;
+    font-size: 16px;
+    border-radius: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.highlight-sc0 {
+    background-color: #e2cfc6;
+    color: black;
+    font-size: 16px;
+    border-radius: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.highlight-sc1 {
+    background-color: #4ecc6d;
+    color: black;
+    font-size: 16px;
+    border-radius: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.highlight-sc2 {
+    background-color: #4999dd;
+    color: black;
+    font-size: 16px;
+    border-radius: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.highlight-sc3 {
+    background-color: #ecc300;
+    color: black;
+    font-size: 16px;
+    border-radius: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.highlight-dd {
+    background-color: #df1962;
+    font-size: 16px;
+    border-radius: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.highlight-sid {
+    background-color: #d80000;
+    font-size: 16px;
+    border-radius: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.highlight-ovr {
+    background-color: #700092;
+    font-size: 16px;
+    border-radius: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+}

@@ -14,7 +14,6 @@ copyright: >
   <a href="#__consent">Cookies</a>
 
 theme:
-  custom_dir: overrides
   name: material
   features:
     - navigation.tabs

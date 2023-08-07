@@ -14,6 +14,7 @@ copyright: >
   <a href="#__consent">Cookies</a>
 
 theme:
+  custom_dir: overrides
   name: material
   features:
     - navigation.tabs
@@ -41,6 +42,7 @@ extra_css:
   - site/stylesheets/extra.css
   - site/stylesheets/hint.min.css
   - site/stylesheets/admonitions.css
+  - site/stylesheets/dept-highlights.css
 
 extra:
   social:

@@ -8,7 +8,7 @@ title: Tactical Response
 ----
 **Emergent Threat Tactical Response Authority**
 
-:material-timer-outline: Updated 07/27/2023 • <span style="color:rgb(116, 247, 147)">:octicons-unlock-16: Public Release</span>
+:material-timer-outline: Updated 08/05/2023 • [<span style="color:rgb(116, 247, 147)">:octicons-unlock-16: Public Release</span>]{This document has been approved for public release and can be used as a legitimate reference.|success}
 
 ----
 
@@ -27,3 +27,7 @@ The Emergent Threat Tactical Response Authority (ETTRA) automatically assumes co
 ## Agent Authority
 
 Emergent Threat Tactical Response Authority (ETTRA) field agents primarily operate undercover, meaning that upon the grant of ETTRA authority, they will disclose their affiliation to on-site personnel. These agents may belong to a civil department, a combative department, or be security personnel. Once their authority is established, ETTRA agents assume equal responsibility and authority as site command. It is crucial to note that regardless of their rank, all directives and orders issued by ETTRA agents must be followed.
+
+## Crisis Negotiation
+
+The Emergent Threat Tactical Response Authority (ETTRA) has established a proficient crisis negotiation team ready to be deployed upon request by security personnel, all without the necessity of initiating a full-scale ETTRA operation. These skilled negotiators remain on-site for as long as they are required by security personnel and can be promptly withdrawn if deemed unnecessary. It is crucial to emphasize that in the event of activation, negotiators possess the authority to determine if an ETTRA deployment is necessary and can initiate it accordingly.

@@ -4,74 +4,21 @@ hide:
     - toc
 ---
 
-# Site 23 Resources
+<div class="centered-text" markdown>
 
-### Facility Dossier
+# Facility & Department Resources
+----
 
-The facility dossier contains all the documents related to facility operation and activites. Here you can find things such as the facility [Emergency Preparedness](https://docs.google.com/document/d/10ePVDdSzIQhYFBus9k0JXrFqdPx7NBbTHhhwruILCvw/edit?usp=sharing) guide.
+</div>
 
-### Executive Orders
+## [Facility Dossier](./facility/)
 
-Executive orders are temporary "regulations" put in place by Site 23's overseers. They cannot be overrulled by the directorate, do not require votes, and take legislative priority over the standard foundation regulations.
+This section houses a comprehensive collection of documents pertaining to the facility's operation. These files encompass a wide range of topics, such as maintenance schedules, safety protocols, equipment manuals, and facility guidelines. The Facility Dossier serves as a valuable reference for staff members and helps maintain the highest standards of operation within the facility.
 
-### Test Section
+## [Department Dossier](./department/)
 
-!!! code-red "CODE RED - *Anomalous security breach*"
+Within this section, you will find an extensive archive of documents that pertain to Site 23's various departments. Each department's mission, objectives, organizational structure, and key responsibilities are meticulously documented here. Additionally, this section provides essential information about the personnel within each department, including their roles and contact details. Please note that all documents and resources found here are considered public and may be used as reference information when applying for departments.
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et
-    euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo
-    purus auctor massa, nec semper lorem quam in massa.
+## [Executive Orders](./executive/)
 
-!!! code-yellow "CODE YELLOW - *Test subject riot*"
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et
-    euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo
-    purus auctor massa, nec semper lorem quam in massa.
-
-!!! code-orange "CODE ORANGE - *Internal fire*"
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et
-    euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo
-    purus auctor massa, nec semper lorem quam in massa.
-
-!!! code-green "CODE GREEN - *Area evacuation*"
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et
-    euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo
-    purus auctor massa, nec semper lorem quam in massa.
-
-!!! code-grey-tech "CODE GREY TECH - *Technological infrastructure failure*"
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et
-    euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo
-    purus auctor massa, nec semper lorem quam in massa.
-
-!!! code-grey-hydro "CODE GREY HYDRO - *Hydroelectric infrastructure failure*"
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et
-    euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo
-    purus auctor massa, nec semper lorem quam in massa.
-
-!!! code-grey-cryo "CODE GREY CRYO - *Cryogenic containment infrastructure failure*"
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et
-    euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo
-    purus auctor massa, nec semper lorem quam in massa.
-
-!!! code-grey-hydraulic "CODE GREY HYDRAULIC - *Hydraulic systems failure*"
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et
-    euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo
-    purus auctor massa, nec semper lorem quam in massa.
-
-!!! code-purple "CODE PURPLE - *Hostage taking*"
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et
-    euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo
-    purus auctor massa, nec semper lorem quam in massa.
-
-!!! code-brown "CODE BROWN - *Hazardous materials incident*"
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et
-    euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo
-    purus auctor massa, nec semper lorem quam in massa.
+Here, you can access a comprehensive record of all executive orders that have been promulgated by the Overseers Council, governing the policies and decisions of Site 23. These authoritative directives cover a broad spectrum of matters, ranging from security protocols and resource allocation to special projects and personnel appointments. Executive orders cannot be overruled by the department directorate and in most cases are only temporary.

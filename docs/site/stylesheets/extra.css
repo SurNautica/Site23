@@ -7,6 +7,13 @@
     }
 }
 
+@font-face {
+    font-family: 'Parisienne';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Parisienne'), local('Parisienne-Regular'), url(http://themes.googleusercontent.com/static/fonts/parisienne/v1/1wiHF6pWOa568Cj3p-anxC3USBnSvpkopQaUR-2r7iU.ttf) format('truetype');
+}
+
 .main {
     color: #7c57c5;
 }
@@ -18,4 +25,22 @@
 
 .centered-text {
     text-align: center;
+}
+
+.signature {
+    font-family: 'Parisienne', cursive;
+    font-size: xx-large;
+    text-indent: 5%;
+}
+
+.md-typeset__table {
+    min-width: 100%;
+}
+
+.md-typeset table:not([class]) {
+    display: table;
+}
+
+.tooltip {
+    cursor: help;
 }

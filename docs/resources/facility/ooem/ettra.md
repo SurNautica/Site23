@@ -8,7 +8,7 @@ title: Tactical Response
 ----
 **Emergent Threat Tactical Response Authority**
 
-:material-timer-outline: Updated 08/05/2023 • [<span style="color:rgb(116, 247, 147)">:octicons-unlock-16: Public Release</span>]{This document has been approved for public release and can be used as a legitimate reference.|success}
+:material-timer-outline: Updated 08/05/2023 • <span style="color:rgb(116, 247, 147)">:octicons-unlock-16: Public Release</span>
 
 ----
 

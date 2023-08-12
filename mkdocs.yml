@@ -34,12 +34,8 @@ theme:
   hljs_languages:
     - lua
 
-extra_javascript:
-  - site/javascripts/tags.js
-
 extra_css:
   - site/stylesheets/extra.css
-  - site/stylesheets/hint.min.css
   - site/stylesheets/admonitions.css
   - site/stylesheets/dept-highlights.css
 
@@ -62,7 +58,6 @@ extra:
 
 plugins:
   - search
-  - tooltips
   - awesome-pages:
       filename: .pages
       collapse_single_pages: false
@@ -88,7 +83,10 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.inlinehilite
-  - pymdownx.snippets
+  - pymdownx.snippets:
+      auto_append:
+        - includes/abbreviations.md
   - attr_list
   - footnotes
   - md_in_html
+  - abbr

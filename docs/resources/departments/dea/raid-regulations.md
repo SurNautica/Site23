@@ -9,7 +9,7 @@ description: Site 23's facility raid regulations.
 ----
 **Facility Raid Regulations**
 
-:material-timer-outline: Updated 08/07/2023 <!--• <span style="color:rgb(116, 247, 147)">:octicons-unlock-16: Public Release</span> -->• [<span style="color:rgb(227, 72, 41)">:material-hammer-wrench: Unfinished Document</span>]{This document is unfinished, information may be incorrect and/or invalid.|error}
+:material-timer-outline: Updated 08/07/2023 <!--• <span style="color:rgb(116, 247, 147)">:octicons-unlock-16: Public Release</span> -->• <span style="color:rgb(227, 72, 41)">:material-hammer-wrench: Unfinished Document</span>
 
 ----
 
